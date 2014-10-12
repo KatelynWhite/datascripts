@@ -1,0 +1,10 @@
+git status:  Tells you what files are changed (which you should commit once you want to save things)
+
+git diff: Actually shows you the changed lines
+
+git add;
+git commit;  Doing these together is how you commit things to your local repository
+
+git push:  Moves things from your local repository to the main repo on github
+
+git pull: Pulls down the lates from the git repo to keep your local repo up to date
